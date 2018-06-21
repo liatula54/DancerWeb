@@ -1,0 +1,899 @@
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\ApplicationInsights.config
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\csc.exe
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\vbc.exe
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\VBCSCompiler.exe
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\DancerWeb.dll.config
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\DancerWeb.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\DancerWeb.pdb
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Antlr3.Runtime.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\EntityFramework.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\EntityFramework.SqlServer.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.Web.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Newtonsoft.Json.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Owin.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Helpers.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Mvc.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Optimization.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Razor.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.Razor.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\WebGrease.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\EntityFramework.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\EntityFramework.SqlServer.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.Web.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Helpers.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Mvc.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Optimization.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.Razor.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\System.Web.WebPages.Razor.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Antlr3.Runtime.pdb
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Newtonsoft.Json.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\obj\Debug\DancerWeb.dll
+c:\users\דניאל\documents\visual studio 2015\Projects\DancerWeb\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb\DancerWeb\bin\ApplicationInsights.config
+D:\DancerWeb\DancerWeb\bin\roslyn\csc.exe
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DancerWeb\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DancerWeb\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\DancerWeb\DancerWeb\bin\roslyn\vbc.exe
+D:\DancerWeb\DancerWeb\bin\roslyn\VBCSCompiler.exe
+D:\DancerWeb\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\DancerWeb\DancerWeb\bin\DancerWeb.dll.config
+D:\DancerWeb\DancerWeb\bin\DancerWeb.dll
+D:\DancerWeb\DancerWeb\bin\DancerWeb.pdb
+D:\DancerWeb\DancerWeb\bin\Antlr3.Runtime.dll
+D:\DancerWeb\DancerWeb\bin\EntityFramework.dll
+D:\DancerWeb\DancerWeb\bin\EntityFramework.SqlServer.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.Web.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DancerWeb\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\DancerWeb\DancerWeb\bin\Newtonsoft.Json.dll
+D:\DancerWeb\DancerWeb\bin\Owin.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.Helpers.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.Mvc.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.Optimization.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.Razor.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.dll
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.Razor.dll
+D:\DancerWeb\DancerWeb\bin\WebGrease.dll
+D:\DancerWeb\DancerWeb\bin\EntityFramework.xml
+D:\DancerWeb\DancerWeb\bin\EntityFramework.SqlServer.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.Web.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.Helpers.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.Mvc.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.Optimization.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.Razor.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+D:\DancerWeb\DancerWeb\bin\System.Web.WebPages.Razor.xml
+D:\DancerWeb\DancerWeb\bin\Antlr3.Runtime.pdb
+D:\DancerWeb\DancerWeb\bin\Newtonsoft.Json.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DancerWeb\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.dll
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+D:\DancerWeb\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\ApplicationInsights.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\csc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\vbc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\DancerWeb.dll.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\DancerWeb.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Antlr3.Runtime.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Newtonsoft.Json.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Helpers.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Mvc.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Optimization.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\WebGrease.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Helpers.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Mvc.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Optimization.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Newtonsoft.Json.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb2\DancerWeb\bin\ApplicationInsights.config
+D:\DancerWeb2\DancerWeb\bin\roslyn\csc.exe
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DancerWeb2\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DancerWeb2\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\DancerWeb2\DancerWeb\bin\roslyn\vbc.exe
+D:\DancerWeb2\DancerWeb\bin\roslyn\VBCSCompiler.exe
+D:\DancerWeb2\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\DancerWeb2\DancerWeb\bin\DancerWeb.dll.config
+D:\DancerWeb2\DancerWeb\bin\DancerWeb.dll
+D:\DancerWeb2\DancerWeb\bin\DancerWeb.pdb
+D:\DancerWeb2\DancerWeb\bin\Antlr3.Runtime.dll
+D:\DancerWeb2\DancerWeb\bin\EntityFramework.dll
+D:\DancerWeb2\DancerWeb\bin\EntityFramework.SqlServer.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.Web.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\DancerWeb2\DancerWeb\bin\Newtonsoft.Json.dll
+D:\DancerWeb2\DancerWeb\bin\Owin.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.Helpers.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.Mvc.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.Optimization.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.Razor.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.dll
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Razor.dll
+D:\DancerWeb2\DancerWeb\bin\WebGrease.dll
+D:\DancerWeb2\DancerWeb\bin\EntityFramework.xml
+D:\DancerWeb2\DancerWeb\bin\EntityFramework.SqlServer.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.Web.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.Helpers.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.Mvc.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.Optimization.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.Razor.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+D:\DancerWeb2\DancerWeb\bin\System.Web.WebPages.Razor.xml
+D:\DancerWeb2\DancerWeb\bin\Antlr3.Runtime.pdb
+D:\DancerWeb2\DancerWeb\bin\Newtonsoft.Json.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DancerWeb2\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.dll
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb2\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\ApplicationInsights.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\csc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\vbc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\DancerWeb.dll.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\DancerWeb.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Helpers.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Mvc.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Optimization.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\WebGrease.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Helpers.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Mvc.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Optimization.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb3\DancerWeb\bin\ApplicationInsights.config
+D:\DancerWeb3\DancerWeb\bin\roslyn\csc.exe
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DancerWeb3\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\DancerWeb3\DancerWeb\bin\roslyn\vbc.exe
+D:\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe
+D:\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\DancerWeb3\DancerWeb\bin\DancerWeb.dll.config
+D:\DancerWeb3\DancerWeb\bin\DancerWeb.dll
+D:\DancerWeb3\DancerWeb\bin\DancerWeb.pdb
+D:\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.dll
+D:\DancerWeb3\DancerWeb\bin\EntityFramework.dll
+D:\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.dll
+D:\DancerWeb3\DancerWeb\bin\Owin.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.Helpers.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.Mvc.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.Optimization.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.Razor.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.dll
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.dll
+D:\DancerWeb3\DancerWeb\bin\WebGrease.dll
+D:\DancerWeb3\DancerWeb\bin\EntityFramework.xml
+D:\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.Helpers.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.Mvc.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.Optimization.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.Razor.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+D:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.xml
+D:\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.pdb
+D:\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.dll
+D:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.pdb
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\ApplicationInsights.config
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\csc.exe
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\vbc.exe
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\DancerWeb.dll.config
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\DancerWeb.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\DancerWeb.pdb
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\EntityFramework.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Owin.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Helpers.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Mvc.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Optimization.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Razor.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\WebGrease.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\EntityFramework.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Helpers.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Mvc.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Optimization.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.Razor.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csproj.CoreCompileInputs.cache
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.dll
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.pdb
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers1.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers2.resources
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers3.resources
+F:\DancerWeb3\DancerWeb\bin\ApplicationInsights.config
+F:\DancerWeb3\DancerWeb\bin\roslyn\csc.exe
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\DancerWeb3\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\DancerWeb3\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+F:\DancerWeb3\DancerWeb\bin\roslyn\vbc.exe
+F:\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe
+F:\DancerWeb3\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+F:\DancerWeb3\DancerWeb\bin\DancerWeb.dll.config
+F:\DancerWeb3\DancerWeb\bin\DancerWeb.dll
+F:\DancerWeb3\DancerWeb\bin\DancerWeb.pdb
+F:\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.dll
+F:\DancerWeb3\DancerWeb\bin\EntityFramework.dll
+F:\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+F:\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.dll
+F:\DancerWeb3\DancerWeb\bin\Owin.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.Helpers.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.Mvc.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.Optimization.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.Razor.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.dll
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.dll
+F:\DancerWeb3\DancerWeb\bin\WebGrease.dll
+F:\DancerWeb3\DancerWeb\bin\EntityFramework.xml
+F:\DancerWeb3\DancerWeb\bin\EntityFramework.SqlServer.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.Web.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.Helpers.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.Mvc.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.Optimization.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.Razor.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+F:\DancerWeb3\DancerWeb\bin\System.Web.WebPages.Razor.xml
+F:\DancerWeb3\DancerWeb\bin\Antlr3.Runtime.pdb
+F:\DancerWeb3\DancerWeb\bin\Newtonsoft.Json.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+F:\DancerWeb3\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers1.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers2.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers3.resources
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.dll
+F:\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.pdb
+C:\Users\litalopaets\Desktop\DancerWeb3\DancerWeb\obj\Debug\DancerWeb.Migrations.dancers5.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\ApplicationInsights.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\csc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\vbc.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\DancerWeb.dll.config
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\DancerWeb.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Antlr3.Runtime.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\EntityFramework.SqlServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.Web.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Newtonsoft.Json.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Owin.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Helpers.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Mvc.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Optimization.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Razor.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\WebGrease.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\EntityFramework.SqlServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.Web.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Helpers.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Mvc.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Optimization.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Razor.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Antlr3.Runtime.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Newtonsoft.Json.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers1.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers2.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers3.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.dancers5.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.dll
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.pdb
+D:\DancerWeb4\DancerWeb\bin\ApplicationInsights.config
+D:\DancerWeb4\DancerWeb\bin\roslyn\csc.exe
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DancerWeb4\DancerWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DancerWeb4\DancerWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\DancerWeb4\DancerWeb\bin\roslyn\vbc.exe
+D:\DancerWeb4\DancerWeb\bin\roslyn\VBCSCompiler.exe
+D:\DancerWeb4\DancerWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\DancerWeb4\DancerWeb\bin\DancerWeb.dll.config
+D:\DancerWeb4\DancerWeb\bin\DancerWeb.dll
+D:\DancerWeb4\DancerWeb\bin\DancerWeb.pdb
+D:\DancerWeb4\DancerWeb\bin\Antlr3.Runtime.dll
+D:\DancerWeb4\DancerWeb\bin\EntityFramework.dll
+D:\DancerWeb4\DancerWeb\bin\EntityFramework.SqlServer.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.Web.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.ApplicationInsights.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\DancerWeb4\DancerWeb\bin\Newtonsoft.Json.dll
+D:\DancerWeb4\DancerWeb\bin\Owin.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.Helpers.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.Mvc.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.Optimization.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.Razor.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Deployment.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.dll
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Razor.dll
+D:\DancerWeb4\DancerWeb\bin\WebGrease.dll
+D:\DancerWeb4\DancerWeb\bin\EntityFramework.xml
+D:\DancerWeb4\DancerWeb\bin\EntityFramework.SqlServer.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.Web.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.ApplicationInsights.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.Helpers.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.Mvc.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.Optimization.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.Razor.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Deployment.xml
+D:\DancerWeb4\DancerWeb\bin\System.Web.WebPages.Razor.xml
+D:\DancerWeb4\DancerWeb\bin\Antlr3.Runtime.pdb
+D:\DancerWeb4\DancerWeb\bin\Newtonsoft.Json.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\DancerWeb4\DancerWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.csprojResolveAssemblyReference.cache
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.FirstMigration.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew2.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew4.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.MigrationNew5.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceers.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers1.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers2.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Dancers3.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.dancers5.resources
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.csproj.GenerateResource.Cache
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.dll
+D:\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.pdb
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.Danceworld.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.dancer444.resources
+C:\Users\דניאל\Documents\Visual Studio 2015\Projects\DancerWeb4\DancerWeb\obj\Debug\DancerWeb.Migrations.dancer4445.resources

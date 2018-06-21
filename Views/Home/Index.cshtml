@@ -1,0 +1,43 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>dancersWeb17_05_18 (3)</title>
+    <link rel="stylesheet" href="bootstrap.min.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,400italic" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Abel" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Antic+Slab" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Asap+Condensed" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Atma" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Autour+One" />
+    <link rel="stylesheet" href="user.css" />
+    <link rel="stylesheet" href="Registration-Form-with-Photo.css" />
+</head>
+
+<body>
+    <div class="register-photo">
+        <div class="form-container">
+            <div class="image-holder" style="background-image:url('image/o.26094.jpg');width:520px;height:467px;">
+                <h1 style="width:442px;color:rgb(172,192,231);font-family:Atma, cursive;font-size:67px;margin:39px;"><strong>Our Fantastic</strong><br /><strong>Dancer&#39;s world</strong><br /><br /></h1>
+            </div>
+       
+            <form method="post" style="width:380px;height:467px;" action="/action_page.php">
+                <h2 class="text-center"><strong>Hello</strong> user!</h2>
+                <div class="container">
+                    <button type="button" class="btn btn-success" style="float:right" onclick="location.href = '@Url.Action("Login", "Account")'">Login</button><br><br>
+                    <button type="button" class="btn btn-primary" style="float:right" onclick="location.href='@Url.Action("Create", "Dancers")'">Create new Dancer</button>
+                    <button type="button" class="btn btn-primary" style="float:right" onclick="location.href='@Url.Action("Create", "Teachers")'">Create new Teacher</button>
+                </div>
+                  
+            </form>
+            </div>
+    </div>
+</body>
+</html>
