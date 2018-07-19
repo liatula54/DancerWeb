@@ -53,8 +53,7 @@ namespace DancerWeb.Controllers
             {
                 db.Dancers.Add(dancers);
                 db.SaveChanges();
-                
-                return RedirectToAction("Index");
+                return RedirectToRoute("MyRoute");
             }
 
             return View(dancers);
