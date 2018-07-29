@@ -26,7 +26,7 @@ namespace DancerWeb.Controllers
         {
             using (DanceDbContext db = new DanceDbContext())
             {
-                return View(db.Teachers.ToList());
+                return View(db.Dancers.ToList());
             }
         }
 
@@ -73,7 +73,7 @@ namespace DancerWeb.Controllers
             return View();
         }
 
-        
+
 
         //[HttpPost]
         //public ActionResult Login(Dancers user)
@@ -114,13 +114,18 @@ namespace DancerWeb.Controllers
         //    return View();
         //}
 
+
+
         [HttpPost]
-        public ActionResult Login(Teacher user)
+        public ActionResult Login(Dancers user)
         {
             using (DanceDbContext db = new DanceDbContext())
             {
-                    var usr = db.Teachers.Single(u => u.Email == user.Email && u.Password == user.Password);
-                    if (usr != null)
+                try
+                {
+                    var usr = db.Dancers.Single(u => u.Email == user.Email && u.Password == user.Password);
+
+                if (usr != null)
                     {
                         Session["Id"] = usr.Id.ToString();
                         Session["Email"] = usr.Email.ToString();
@@ -131,6 +136,8 @@ namespace DancerWeb.Controllers
                         ModelState.AddModelError("", "Email or password is wrong");
                     }
                 }
+                catch (System.InvalidOperationException e) { Console.WriteLine("Email or password is wrong"); }
+            }
             OnLineUsers.Add(user.Email);
             return View();
         }
@@ -230,13 +237,13 @@ namespace DancerWeb.Controllers
 
 
         [HttpPost]
-        public ActionResult Register(Teacher account)
+        public ActionResult Register(Dancers account)
         {
             if(ModelState.IsValid)
             {
                 using (DanceDbContext db = new DanceDbContext())
                 {
-                    db.Teachers.Add(account);
+                    db.Dancers.Add(account);
                     db.SaveChanges();
                 }
                 ModelState.Clear();

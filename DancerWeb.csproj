@@ -202,7 +202,6 @@
     <Compile Include="Controllers\DancersController.cs" />
     <Compile Include="Controllers\GroupDancersController.cs" />
     <Compile Include="Controllers\TeachersController.cs" />
-    <Compile Include="Controllers\UserLoginsController.cs" />
     <Compile Include="Migrations\201805270903395_FirstMigration.cs" />
     <Compile Include="Migrations\201805270903395_FirstMigration.Designer.cs">
       <DependentUpon>201805270903395_FirstMigration.cs</DependentUpon>
@@ -254,6 +253,10 @@
     <Compile Include="Migrations\201806210923538_dancer4445.cs" />
     <Compile Include="Migrations\201806210923538_dancer4445.Designer.cs">
       <DependentUpon>201806210923538_dancer4445.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201806211248010_dancering1.cs" />
+    <Compile Include="Migrations\201806211248010_dancering1.Designer.cs">
+      <DependentUpon>201806211248010_dancering1.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\DanceDbContext.cs" />
@@ -368,13 +371,15 @@
     <Content Include="Views\Dancers\Details.cshtml" />
     <Content Include="Views\Dancers\Edit.cshtml" />
     <Content Include="Views\Dancers\Index.cshtml" />
-    <Content Include="Views\UserLogins\Create.cshtml" />
-    <Content Include="Views\UserLogins\Delete.cshtml" />
-    <Content Include="Views\UserLogins\Details.cshtml" />
-    <Content Include="Views\UserLogins\Edit.cshtml" />
-    <Content Include="Views\UserLogins\Index.cshtml" />
+    <Content Include="Views\nextPage\Create.cshtml" />
+    <Content Include="Views\nextPage\Delete.cshtml" />
+    <Content Include="Views\nextPage\Details.cshtml" />
+    <Content Include="Views\nextPage\Edit.cshtml" />
+    <Content Include="Views\nextPage\Index.cshtml" />
     <Content Include="Views\Account\LoggedIn.cshtml" />
     <Content Include="Views\Account\Index.cshtml" />
+    <Content Include="Views\Dancers\Login.cshtml" />
+    <Content Include="Views\Dancers\LoggedIn.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
@@ -426,6 +431,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\201806210923538_dancer4445.resx">
       <DependentUpon>201806210923538_dancer4445.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201806211248010_dancering1.resx">
+      <DependentUpon>201806211248010_dancering1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

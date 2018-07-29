@@ -18,6 +18,11 @@ namespace DancerWeb
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+            routes.MapRoute(
+                "MyRoute", // Route name
+                "Account/", // URL 
+                new { controller = "Account", action = "Login" } // Parameter defaults
+                );
         }
     }
 }

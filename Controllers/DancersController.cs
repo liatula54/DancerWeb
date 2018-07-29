@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.Entity;
@@ -7,6 +8,8 @@ using System.Net;
 using System.Web;
 using System.Web.Mvc;
 using DancerWeb.Models;
+using System.Web.UI.WebControls;
+
 
 namespace DancerWeb.Controllers
 {
@@ -14,6 +17,7 @@ namespace DancerWeb.Controllers
     {
         private DanceDbContext db = new DanceDbContext();
 
+        public HashSet<string> Online = new HashSet<string>();
         // GET: Dancers
         public ActionResult Index()
         {
@@ -52,7 +56,7 @@ namespace DancerWeb.Controllers
             {
                 db.Dancers.Add(dancers);
                 db.SaveChanges();
-                return RedirectToAction("Index");
+                return RedirectToRoute("MyRoute");
             }
 
             return View(dancers);
@@ -124,6 +128,45 @@ namespace DancerWeb.Controllers
             base.Dispose(disposing);
         }
 
+        //Login
+        public ActionResult Login()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Login(Dancers usrAccount)
+        {
+            using (DanceDbContext db = new DanceDbContext())
+            {
+                var usr = db.Dancers.Where(u => u.Id == usrAccount.Id && u.Password == usrAccount.Password);
+                if (usr != null)
+                {
+                    Online.Add( usrAccount.Email.ToString());
+                    Session["UserID"] = usrAccount.Id.ToString();
+                    Session["UserMail"] = usrAccount.Email.ToString();
+                    return RedirectToAction("LoggedIn");
+                }
+                else { ModelState.AddModelError("","Mail or Password is wrong.");}
+
+            }
+
+            return View();
+
+        }
+
+        public ActionResult LoggedIn()
+        {
+            if (Session["UserMail"] != null)
+            {
+                
+                return View();
+            }
+            else
+            {
+                return RedirectToAction("Login");
+            }
+        }
       
 
     }
